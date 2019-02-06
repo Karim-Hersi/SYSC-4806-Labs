@@ -26,7 +26,7 @@ public class BuddyInfoTest {
         ));
     }
 
-//    @Test
+//    @AppTest
 //    public void jpaTest(){
 //        BuddyInfo buddy1 = new BuddyInfo("Adnan Hajar", "1380 Prince of wales");
 //        BuddyInfo buddy2 = new BuddyInfo("Jad", "highway to heaven");

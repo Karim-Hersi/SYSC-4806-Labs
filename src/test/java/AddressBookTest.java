@@ -30,7 +30,7 @@ public class AddressBookTest {
         assert (addressbook.toString().equals("addressbook.addressbook{budy_list=" + addressbook.getBuddy_list() + '}' ));
     }
 
-//    @Test
+//    @AppTest
 //    public void jpaTest(){
 //        AddressBook addressBook = new AddressBook();
 //        AddressBook addressBook2 = new AddressBook();
